@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **programming and Web development Skills**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development and Machine Learning**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
