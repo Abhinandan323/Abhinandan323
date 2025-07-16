@@ -21,5 +21,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandan323&" alt="abhinandan323" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhinandan323&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
